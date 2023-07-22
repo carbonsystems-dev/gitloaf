@@ -5,7 +5,7 @@ Gitloaf caches file data for short periods of time in order to provide a quicker
 You can use the jsdelivr cdn instead of the github cdn by switching /cdn/ with /cfcdn/ in the url.
 
 ### OUTDATED README
-Now serviced under Carbon Systems!
+No longer maintained under carbon systems.
 
 # Warning
 A few 3kh0-Assets games will likely not work due to current issues. Please bear with me while I implement fixes to these issues! DM or Ping me on discord (Albinus#4220) and tell me the non-working games and share to me a screenshot of the console so I can see the errors! Most should work though :)
